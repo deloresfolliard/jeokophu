@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igheileid.form-function.co.uk/sitemap.xml
